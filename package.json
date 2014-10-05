@@ -1,0 +1,22 @@
+{
+  "name": "phish_node_bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "moment": "^2.8.3",
+    "moment-timezone": "^0.2.2",
+    "raw.js": "^0.3.1",
+    "reddit-stream": "^1.1.0",
+    "request": "^2.44.0",
+    "requests": "0.0.1",
+    "underscore": "^1.7.0"
+  }
+}
